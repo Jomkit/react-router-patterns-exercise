@@ -8,7 +8,7 @@
     "@testing-library/user-event": "*",
     "axios": "*",
     "concurrently": "*",
-    "json-server": "*",
+    "json-server": "^0.17.3",
     "react": "*",
     "react-dom": "*",
     "react-router-dom": "*",
