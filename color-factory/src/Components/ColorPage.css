@@ -1,0 +1,13 @@
+.ColorPage {
+    position: absolute;
+    margin: 0;
+    padding: auto;
+    min-width: 100%;
+    height: 100%;
+    color: white;
+}
+
+.ColorPage a {
+    text-decoration: none;
+    color: white;
+}

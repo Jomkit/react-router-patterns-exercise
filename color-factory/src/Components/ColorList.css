@@ -1,0 +1,4 @@
+.ColorList {
+    display: flex;
+    flex-direction: column;
+}
